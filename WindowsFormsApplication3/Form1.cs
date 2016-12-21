@@ -11,6 +11,8 @@ using System.Windows.Forms;
 
 /// <summary>
 /// 
+/// https://github.com/miqoo1996/Chess_Csharp
+/// 
 /// @author Miqayel Ishkhanyan: <miqoo1996@mail.ru>, <miqoo1996@gmail.com>
 /// @author phone: <+37495336290>, <+37494336290>
 /// 
